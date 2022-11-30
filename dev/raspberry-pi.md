@@ -18,7 +18,7 @@ We are using the 8 GB RAM model of the Raspberry Pi 4 with Ubuntu 22.04 LTS inst
 Code was initially tested on our personal computers, then deployed onto the Pi using Docker images. To see more about Docker click [here](docker).
 
 ## QR Code
-![QR Code](https://github.com/4850-red/ip-uploader/blob/main/qrcode.png)
+![QR Code](https://github.com/4850-red/ip-uploader/blob/main/qrcode.png?raw=true)
 
 {: .important }
 Due to differences in CPU architecture, Docker images are implemented using Docker multiplatform. For more info see [Multiplatform Support](github-actions#multiplatform-support).
