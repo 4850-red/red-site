@@ -20,7 +20,7 @@ See the tab on the side for navigation.
 
 To view our C-Day submissions, click [here](dev/presentation).
 
-To view our Github Repositories, click [here](https://github.com/4850-red).
+To view our Github repositories, click [here](https://github.com/4850-red).
 
 To view our final report, click [here](dev/report).
 
